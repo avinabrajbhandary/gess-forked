@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SELECT" id="SELECT">
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+	<SimpleField name="network" type="string"></SimpleField>
+	<SimpleField name="opening_hours" type="string"></SimpleField>
+	<SimpleField name="operator" type="string"></SimpleField>
+</Schema>
+<Folder><name>SELECT</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">529261037</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.4511451,45.1046706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TCF</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">566516299</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.4564926,44.8690821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">567515457</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1482647,44.9125305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">647605330</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2630007,44.9174515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">829660520</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.3321844,44.9129564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">829660882</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.3291744,44.9120181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1031696583</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wings Financial Credit Union</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2624168,44.9177143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TCF Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1161735031</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.5393724,44.8603628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1313774056</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1453065,44.9401161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1381079541</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">TCF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2186226,44.7328044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1381079545</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1860923,44.7324168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1381079546</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2015531,44.7324043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1388450123</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2129642,44.7309753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1388450131</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2133372,44.7311735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1749099088</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">First National Bank of the Lakes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2986748,44.9463643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1749250207</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2878106,44.937932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1768665356</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.4414782,44.9667783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1773277435</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">usbank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1440213,45.0801453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">1799844979</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.348571,44.8255082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2027275318</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2916394,44.7460092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2027275377</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2913099,44.7459992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Unity One Credit Union</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2103737933</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.088927,44.9490342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2146132848</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">TCF Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0945003,44.9479949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2146132851</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Bank of America</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0944732,44.948012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alliance Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2217739202</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0927048,44.9470998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wells Fargo</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2217739206</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0950241,44.9478789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wells Fargo</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2217739209</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0949823,44.9479029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2217739210</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0932434,44.9468333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2251206003</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Affinity Plus</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2708482,44.9782149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2329894005</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2910886,44.9194399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WellsFargo ATM</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2429781609</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.3010951,44.948083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WellsFargo ATM</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2429781610</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.300175,44.9485358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2499825559</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2697982,44.9804573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2505496174</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">US Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0919763,44.947527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2574464489</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.9042268,44.8475715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2633773514</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.3755006,44.7458903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">2684462052</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">US Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0917524,44.9473604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">3093216280</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.3169233,44.8832675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">3208544216</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0447722,44.8183118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">3633165940</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1919075,44.9183158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">3856106011</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.8654918,45.1775178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4343817370</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="network">Bank of America</SimpleData>
+		<SimpleData name="operator">Bank of America</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2232284,44.9735133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4343818239</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">TCF Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2350463,44.9810778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4347889713</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">US Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1676654,44.9394151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4347889714</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1665079,44.9432489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Well's Fargo ATM</name>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4617470782</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2780762,44.9623399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4732767795</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0442135,44.8515416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4751795927</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">us bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2120549,44.8821182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4780172025</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2036467,44.8820147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">4840730897</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.7461732,44.6219489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5120539729</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">US Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2129787,44.7166352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5120539730</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2186456,44.7153582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5287908895</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2883766,44.9604549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5289969418</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">ATM Network, Inc.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2883356,44.9494175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5355792463</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Bank of America</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2706612,44.9758247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5355792466</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Associated Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2708339,44.9758374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5355792475</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Bank of America</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2717934,44.9758812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5355792480</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">TCF Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2716107,44.9760924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5355792481</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Bremer Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.271541,44.9761289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5355792487</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">US Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2718477,44.9764069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5739830131</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2417613,44.8534555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5753302723</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.4542822,45.105783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5839169546</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="opening_hours">24/7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2778892,44.9711906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">5955612515</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2718417,44.9758009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">6267238542</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.1958332,44.98209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">6281318038</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">US Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2101098,44.9733597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">6336944137</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="network">U.S. Bank</SimpleData>
+		<SimpleData name="operator">U.S. Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2248624,44.9708186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">6387487385</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2086901,44.8841377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">6426986853</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="network">Bank of America</SimpleData>
+		<SimpleData name="operator">Bank of America</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2367245,44.980576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">6433139150</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="network">Wells Fargo</SimpleData>
+		<SimpleData name="operator">Wells Fargo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2436143,44.9729415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SELECT">
+		<SimpleData name="osm_id">6433139158</SimpleData>
+		<SimpleData name="amenity">atm</SimpleData>
+		<SimpleData name="operator">TCF Bank</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.2433047,44.9723753</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
